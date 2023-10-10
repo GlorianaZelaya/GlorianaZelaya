@@ -1,6 +1,6 @@
 ### ¡Alo! Gloriana here 👋
 
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" />
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
 
 ![](https://github.com/GlorianaZelaya/[Your_GIF_Name.gif](https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734))
 
