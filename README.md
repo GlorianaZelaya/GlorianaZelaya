@@ -1,8 +1,8 @@
 ### ¡Alo! Gloriana here 👋
 
-<img alt="GIF" src="https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734" height="280" />
+<img alt="GIF" src="https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734" height="100" />
 
-![](https://github.com/GlorianaZelaya/[Your_GIF_Name.gif](https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734))
+
 
 
 **GlorianaZelaya/GlorianaZelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
