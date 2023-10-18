@@ -7,9 +7,3 @@ Passionate about crafting immersive game experiences and building captivating we
 ### 🌸 Spin the wheel and see your fortune 🌸
 
 <img alt="PNG" src="fortuneWheel.png"/>
-
-def hello_world():
-    print("Hello, world!")
-
-if __name__ == "__main__":
-    hello_world()
