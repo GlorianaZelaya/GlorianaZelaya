@@ -12,5 +12,5 @@
 
 ### 🌸 Spin the wheel and see your fortune 🌸
 
-<img alt="arrow" src="arrow2.png" width="100"/>
+<img style="margin-top: 200px;" alt="arrow" src="arrow2.png" width="50" />
 <img alt="PNG" src="onlyWheel2.png"/>
