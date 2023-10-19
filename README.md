@@ -6,7 +6,7 @@
   </span>
   <span>
     <p> Web Developer/Designer💻 </p>
-    Aspiring Game Developer🎮
+    <p>  Aspiring Game Developer🎮 </p>
   </span>
 </div>
 
