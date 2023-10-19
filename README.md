@@ -13,7 +13,7 @@
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gloriana-zelaya-quirós-b30a6023a/)
 
-<h1> 🌸 Spin the wheel and see your fortune 🌸 </h1>
+<h1> 🌸 Your fortune for today is:🌸 </h1>
 
 <img align="center" alt="arrow" src="arrow2.png" width="60"  />
 <div align="center">
