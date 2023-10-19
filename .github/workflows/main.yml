@@ -13,9 +13,9 @@ jobs:
 
       - name: Update README
         run: |
-          messages=("Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." "I know the wind is strong, but so are you." "Focus on becoming someone you are proud of" "Learn from the Journey"  )
+          messages=("Message 1" "Message 2" "Message 3")
           random_message="${messages[RANDOM % ${#messages[@]}]}"
-          sed -i "s/\> Today's message: .*/> Today's message: $random_message/" README.md
+          sed -i "s/<!--START_SECTION:message-of-the-day-->.*<!--END_SECTION:message-of-the-day-->/<!--START_SECTION:message-of-the-day-->\n> Today's message: $random_message\n<!--END_SECTION:message-of-the-day-->/" README.md
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git commit -am "Update daily message"
@@ -23,3 +23,4 @@ jobs:
         env:
           RANDOM: ${{ job.services.random.integers }}
         working-directory: ./
+      
