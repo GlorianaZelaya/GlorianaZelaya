@@ -14,7 +14,9 @@
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gloriana-zelaya-quirós-b30a6023a/)
 
 <h1 align="center"> 🌸 Your fortune for today is:🌸 </h1>
-Today's message: [Your Message Here]
+Today's message: <!--START_SECTION:message-of-the-day-->
+
+<!--END_SECTION:message-of-the-day-->
 <div align="center">
   <img alt="PNG" src="wheelgif.gif"/>
 </div>
