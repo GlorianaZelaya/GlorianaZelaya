@@ -17,4 +17,4 @@
   <img alt="PNG" src="onlyWheel2.png"/>
 </div>
 
-![Recent Anime Activity](https://img.shields.io/badge/Recent%20Anime-10-blue)
+![Recent Anime Activity](https://img.shields.io/badge/Recent%20Anime-1-blue)
