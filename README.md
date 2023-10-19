@@ -10,7 +10,8 @@
   </span>
 </div>
 
-### 🌸 Spin the wheel and see your fortune 🌸
+<h1> 🌸 Spin the wheel and see your fortune 🌸 </h1>
 
-<img style="margin-top: 200px;" alt="arrow" src="arrow2.png" width="50" />
+
+<img alt="arrow" src="arrow2.png" width="60" style="margin-top: 200px;" />
 <img alt="PNG" src="onlyWheel2.png"/>
