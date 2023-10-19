@@ -12,8 +12,8 @@
 
 <h1> 🌸 Spin the wheel and see your fortune 🌸 </h1>
 
+<img align="center" alt="arrow" src="arrow2.png" width="60"  />
 <div align="center">
-<img alt="arrow" src="arrow2.png" width="60"  />
   <img alt="PNG" src="onlyWheel2.png"/>
 </div>
 
