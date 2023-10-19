@@ -1,0 +1,25 @@
+name: Update Daily Message
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+
+jobs:
+  update-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          messages=("Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." "I know the wind is strong, but so are you." "Focus on becoming someone you are proud of" "Learn from the Journey"  )
+          random_message="${messages[RANDOM % ${#messages[@]}]}"
+          sed -i "s/\> Today's message: .*/> Today's message: $random_message/" README.md
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -am "Update daily message"
+          git push
+        env:
+          RANDOM: ${{ job.services.random.integers }}
+        working-directory: ./
