@@ -10,6 +10,9 @@
   </span>
 </div>
 
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gloriana-zelaya-quirós-b30a6023a/)
+
 <h1> 🌸 Spin the wheel and see your fortune 🌸 </h1>
 
 <img align="center" alt="arrow" src="arrow2.png" width="60"  />
@@ -17,4 +20,4 @@
   <img alt="PNG" src="onlyWheel2.png"/>
 </div>
 
-![Recent Anime Activity](https://img.shields.io/badge/Recent%20Anime-1-blue)
+![Recent Anime Activity](https://img.shields.io/badge/Recent%20Anime-1-pink)
