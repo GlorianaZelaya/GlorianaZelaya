@@ -13,7 +13,7 @@
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gloriana-zelaya-quirós-b30a6023a/)
 
-<h1 align="center"> 🌸 Your fortune for today is:🌸 </h1>
+<h1 align="center"> 🌸 Your fortune for today 🌸 </h1>
 <div align="center">
   Today's message: Count on yourself
 </div>
