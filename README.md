@@ -19,7 +19,7 @@ Hi there! My name is Gloriana. I'm excited to meet you. As a Full Stack Develope
 
 <h1 align="center"> 🌸 Your fortune for today 🌸 </h1>
 <div align="center">
-  Today's message: Count on yourself
+  Today's message: You're braver than you think.
 </div>
 <div align="center">
   <img alt="PNG" src="wheelgif.gif"/>
