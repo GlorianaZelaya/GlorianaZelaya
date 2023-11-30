@@ -5,7 +5,7 @@
 </div>
 </br>
 <div>
-Hi there! My name is Gloriana. I'm excited to meet you. As a Full Stack Developer, I love creating beautiful designs that stand out. When I'm not busy coding, you can find me playing video games or exploring Illustration and 3D rendering. Learning new things is my passion and I'm always eager to try something new. <img align="right" alt="GIF" src="https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734" height="120" />
+Hi there! My name is Gloriana. I'm excited to meet you. As a Software Developer, I love creating beautiful designs that stand out. When I'm not busy coding, you can find me playing video games or exploring Illustration and 3D rendering. Learning new things is my passion and I'm always eager to try something new. <img align="right" alt="GIF" src="https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/ad/Lamb_Eat_Good.gif/revision/latest?cb=20221123203734" height="120" />
 </div>
 <br />
 <details>
